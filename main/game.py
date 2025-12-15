@@ -106,7 +106,6 @@ while run_bool : #boucle infini qui garde le jeu ouvert
     pygame.display.flip() #mets l'écran à jour 
     clock.tick(60)  # 60 FPS
 
-pygame.quit()
 
 
 
